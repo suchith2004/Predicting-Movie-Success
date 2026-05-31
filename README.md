@@ -23,7 +23,7 @@ To compare different machine learning models and find which one gives the best a
   
  📂 How to Run Project
 ```bash
-git clone https://github.com/your-username/movie-success-prediction.git
+git clone https://github.com/suchith2004/movie-success-prediction.git
 cd movie-success-prediction
 pip install -r requirements.txt
 python app.py
